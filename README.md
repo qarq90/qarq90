@@ -19,7 +19,8 @@ Here are some projects I've worked on:
 - Features include dynamic data rendering, customizable dashboards, and interactive charts..
 - Developed using Next.js.
 - Repo: https://github.com/SpectreScythe/nextjs-dashboard
-- ![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/c2543d32-c98a-479b-a3a0-e9c43cb992d7)
+  
+![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/c2543d32-c98a-479b-a3a0-e9c43cb992d7)
 
 
 ### ImageInnator (https://github.com/SpectreScythe/image-innator)
@@ -28,7 +29,8 @@ Here are some projects I've worked on:
    photographers worldwide
 - Uses Unplash API.
 - Repo: https://github.com/SpectreScythe/image-innator
-- ![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/b555fa4c-324b-4052-b2c9-80e9dd632900)
+
+![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/b555fa4c-324b-4052-b2c9-80e9dd632900)
 
 
 ## Contributions 🌟

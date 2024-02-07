@@ -20,7 +20,7 @@ Here are some projects I've worked on:
 - Developed using Next.js.
 - Repo: https://github.com/SpectreScythe/nextjs-dashboard
 
-- ### ImageInnator (https://github.com/SpectreScythe/image-innator)
+### ImageInnator (https://github.com/SpectreScythe/image-innator)
 - An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
 -  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
    photographers worldwide

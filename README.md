@@ -43,7 +43,7 @@ Here are some projects I've worked on:
 
 ## Fun Facts 🎉
 - Coffee >>> Tea
-- Open World games Enthusiast
+- Open World games Enthusiast 🎮
 
 ## Let's Connect! 🔗
 - Mail me: scythethroughtheheart05@gmail.com

@@ -1,11 +1,11 @@
 # Welcome to qarq90's GitHub Profile 👋
 
-## About Me ℹ️
+## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",
 - Your interests, skills, and expertise.
 - Your goals or objectives related to software development or other fields.
 
-## Projects 🚀
+## 🚀 Projects 
 Here are some projects I've worked on:
 
 ### TalkWave (https://github.com/oaish/Servlet)
@@ -37,15 +37,15 @@ Here are some projects I've worked on:
 ![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/b555fa4c-324b-4052-b2c9-80e9dd632900)
 
 
-## Contributions 🌟
+## 🌟 Contributions 
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet
 - Currently working on: https://github.com/SpectreScythe/SnX
 
-## Fun Facts 🎉
+## 🎉 Fun Facts 
 - Coffee >>> Tea
 - Open World games Enthusiast 🎮
 
-## Let's Connect! 🔗
+## 🔗 Let's Connect! 
 - Mail me: scythethroughtheheart05@gmail.com
 - Linkedin: https://www.linkedin.com/in/abdurrahman-qureshi-0b16932b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BthBtqosvTSuAxYeOyCjLFg%3D%3D 
 - Twitter: https://twitter.com/Abdurra05461066/status/1676955110184984576?s=20

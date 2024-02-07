@@ -26,6 +26,8 @@ Here are some projects I've worked on:
    photographers worldwide
 - Uses Unplash API.
 - Repo: https://github.com/SpectreScythe/image-innator
+- ![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/b555fa4c-324b-4052-b2c9-80e9dd632900)
+
 
 ## Contributions 🌟
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet

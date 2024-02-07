@@ -20,13 +20,20 @@ Here are some projects I've worked on:
 - Developed using Next.js.
 - Repo: https://github.com/SpectreScythe/nextjs-dashboard
 
+- ### ImageInnator (https://github.com/SpectreScythe/image-innator)
+- An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
+-  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
+   photographers worldwide
+- Uses Unplash API.
+- Repo: https://github.com/SpectreScythe/image-innator
+
 ## Contributions 🌟
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet
 - Currently working on: https://github.com/SpectreScythe/SnX
 
 ## Fun Facts 🎉
-- Interesting facts about yourself or your projects.
-- Any hobbies or activities you enjoy outside of coding.
+- Coffee >>> Tea
+- Open World games Enthusiast
 
 ## Let's Connect! 🔗
 - Mail me: scythethroughtheheart05@gmail.com

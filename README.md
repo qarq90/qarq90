@@ -14,6 +14,10 @@ Here are some projects I've worked on:
 - MySQL for database management.
 - Screenshots or demo links (if available).
 
+![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/be99394f-8afc-49fc-97a6-a6028c775f7c)
+![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/430a8996-880b-4449-9a8c-3e768c4fddb7)
+
+
 ### Dashboard (https://github.com/SpectreScythe/nextjs-dashboard)
 - Provides real-time data visualization and analytics for monitoring key metrics.
 - Features include dynamic data rendering, customizable dashboards, and interactive charts..

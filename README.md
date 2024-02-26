@@ -24,16 +24,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 ![image](https://github.com/qarq90/qarq90/assets/124421417/b0976511-bae4-4729-9bd8-04f8ce099810)
 
 
-### Dashboard (https://github.com/SpectreScythe/nextjs-dashboard)
-- Provides real-time data visualization and analytics for monitoring key metrics.
-- Features include dynamic data rendering, customizable dashboards, and interactive charts..
-- Developed using Next.js.
-- Repo: https://github.com/SpectreScythe/nextjs-dashboard
-  
-![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/c2543d32-c98a-479b-a3a0-e9c43cb992d7)
-
-
-### ImageInnator (https://github.com/SpectreScythe/image-innator)
+### ImageInnator (https://imageinnator-qarq90.vercel.app/)
 - An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
 -  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
    photographers worldwide

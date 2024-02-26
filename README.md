@@ -8,7 +8,8 @@
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-SnX (https://github.com/qarq90/SnX)
+# SnX (https://github.com/qarq90/SnX)
+
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
 Craft your unique style statement with an extensive collection of 3D outfits and accessories.

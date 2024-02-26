@@ -24,7 +24,8 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 ![image](https://github.com/qarq90/qarq90/assets/124421417/b0976511-bae4-4729-9bd8-04f8ce099810)
 
 
-### ImageInnator (https://imageinnator-qarq90.vercel.app/)
+## ImageInnator (https://imageinnator-qarq90.vercel.app/)
+
 - An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
 -  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
    photographers worldwide

@@ -8,14 +8,16 @@
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-### TalkWave (https://github.com/oaish/Servlet)
-- Enables instant messaging between users in real-time. Provides a seamless chat experience with responsive design and efficient data management.
-- Utilizes Java Servlet for server-side handling.
-- MySQL for database management.
-- Screenshots or demo links (if available).
+SnX (https://github.com/qarq90/SnX)
+SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
-![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/be99394f-8afc-49fc-97a6-a6028c775f7c)
-![image](https://github.com/SpectreScythe/SpectreScythe/assets/124421417/430a8996-880b-4449-9a8c-3e768c4fddb7)
+Craft your unique style statement with an extensive collection of 3D outfits and accessories.
+Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble.
+Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
+Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
+
+![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
+![image](https://github.com/qarq90/qarq90/assets/124421417/b0976511-bae4-4729-9bd8-04f8ce099810)
 
 
 ### Dashboard (https://github.com/SpectreScythe/nextjs-dashboard)

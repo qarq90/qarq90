@@ -12,12 +12,13 @@ Here are some projects I've worked on:
 
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
-Craft your unique style statement with an extensive collection of 3D outfits and accessories.
-Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble.
-Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
-Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
+- Craft your unique style statement with an extensive collection of 3D outfits and accessories.
+- Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble.
+- Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
+- Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
+
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/b0976511-bae4-4729-9bd8-04f8ce099810)
 

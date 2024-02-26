@@ -21,7 +21,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 ![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
 
 
-![image](https://github.com/qarq90/qarq90/assets/124421417/b0976511-bae4-4729-9bd8-04f8ce099810)
+![image](https://github.com/qarq90/qarq90/assets/124421417/1e88a4f6-7a44-470d-b3fc-75ab1f6f317a)
 
 
 ## ImageInnator (https://imageinnator-qarq90.vercel.app/)

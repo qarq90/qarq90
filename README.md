@@ -8,7 +8,7 @@
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-## SnX (https://github.com/qarq90/SnX)
+## SnX (https://snx-qarq90.vercel.app/)
 
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
@@ -16,6 +16,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 - Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble.
 - Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
 - Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
+- Repo: (https://github.com/qarq90/SnX)
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
 

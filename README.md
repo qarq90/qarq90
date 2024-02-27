@@ -1,4 +1,4 @@
-# 👋 Hi, I am a dummie with lappie
+# 404 Bio Not Found. Please check back later for witty banter.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",

@@ -1,8 +1,9 @@
-# Welcome to qarq90's GitHub Profile 👋
+# 👋 Hi, I am a dummie with lappie
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",
 - A noobie with a lappie
+- Nerdy Douchbag
 
 ## 🚀 Projects 
 Here are some projects I've worked on:

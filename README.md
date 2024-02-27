@@ -1,9 +1,15 @@
 # 404 Profile Not Found.
 
-## Some random puns...
+
+
+# JK...
+
+
+## Some random puns I made along the way...
 - 🌹 Roses are #FF0000, 🌺 violets are #0000FF, unexpected '{' on line 32.
 - Code like nobody's watching, because they're all debugging.
 - My code has more 🐞 bugs than a 🌳 forest 🌳 in springtime.
+- I code therefore I am... frequently confused.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",

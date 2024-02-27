@@ -32,7 +32,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 - Uses Unplash API.
 - Repo: https://github.com/SpectreScythe/image-innator
 
-![image](https://github.com/qarq90/qarq90/assets/124421417/b39c3d7a-c604-4fee-a513-ce9d7dc37234)
+![image](https://github.com/qarq90/qarq90/assets/124421417/6002b906-d1e5-4c98-954e-650de270936c)
 
 
 ## 🌟 Contributions 

@@ -11,6 +11,7 @@ __________________________________________________________________________
 - Code like nobody's watching, because they're all debugging.
 - My code has more 🐞 bugs than a 🌳 forest 🌳 in springtime.
 - I code therefore I am... frequently confused.
+- I think the 🟥 Red Army 🟥 was right, because it's OUR code.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",

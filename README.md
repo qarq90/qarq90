@@ -1,9 +1,14 @@
-# 404 Bio Not Found. Please check back later for witty banter.
+# 404 Profile Not Found.
+
+## Some random puns...
+- 🌹 Roses are #FF0000, 🌺 violets are #0000FF, unexpected '{' on line 32.
+- Code like nobody's watching, because they're all debugging.
+- My code has more 🐞 bugs than a 🌳 forest 🌳 in springtime.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",
-- A noobie with a lappie
-- Nerdy Douchbag
+- Ctrl-Z enthusiast, because life needs an undo button.
+- 
 
 ## 🚀 Projects 
 Here are some projects I've worked on:

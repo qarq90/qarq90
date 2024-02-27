@@ -2,8 +2,7 @@
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",
-- Your interests, skills, and expertise.
-- Your goals or objectives related to software development or other fields.
+- A noobie with a lappie
 
 ## 🚀 Projects 
 Here are some projects I've worked on:
@@ -37,11 +36,11 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 ## 🌟 Contributions 
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet
-- Currently working on: https://github.com/SpectreScythe/SnX
+- Completed: https://github.com/SpectreScythe/SnX
 
 ## 🎉 Fun Facts 
 - Coffee >>> Tea
-- Open World games Enthusiast 🎮
+- Horror Games Enthusiast 🎮
 
 ## 🔗 Let's Connect! 
 - Mail me: scythethroughtheheart05@gmail.com

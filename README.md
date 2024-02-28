@@ -11,6 +11,7 @@ __________________________________________________________________________
 - My code has more 🐞 bugs than a 🌳 forest 🌳 in springtime.
 - I code therefore I am... frequently confused.
 - I think the 🟥 Red Army 🟥 was right, because it's OUR code.
+- Coding is my mental cardio.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",

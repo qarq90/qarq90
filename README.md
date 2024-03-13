@@ -11,7 +11,7 @@
 <br />
 <br />
 
-<p style="text-align: center">❓ 404 Profile Not Found ❗</p>
+<p align="center">❓ 404 Profile Not Found ❗</p>
 
 __________________________________________________________________________
 

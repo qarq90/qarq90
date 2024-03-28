@@ -39,12 +39,11 @@ __________________________________________________________________________
 - My code has more 🐞 bugs than a 🌳 forest 🌳 in springtime.
 - I code therefore I am... frequently confused.
 - I think the 🟥 Red Army 🟥 was right, because it's OUR code.
-- My debugging skills are so bad, I could investigate a political scandal in binary.
 
 ## ℹ️ About Me 
 - Formally called "Abdurrahman Qureshi",
 - Ctrl-Z enthusiast, because life needs an undo button.
-- 
+- My debugging skills are so bad, I could investigate a political scandal in binary.
 
 ## 🚀 Projects 
 Here are some projects I've worked on:

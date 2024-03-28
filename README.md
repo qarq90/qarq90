@@ -41,7 +41,8 @@ __________________________________________________________________________
 - I think the 🟥 Red Army 🟥 was right, because it's OUR code.
 
 ## ℹ️ About Me 
-- Formally called "Abdurrahman Qureshi",
+- Formally called "Abdurrahman Qureshi".
+- Professional Bug Developer.
 - Ctrl-Z enthusiast, because life needs an undo button.
 - My debugging skills are so bad, I could investigate a political scandal in binary.
 

@@ -66,6 +66,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/1e88a4f6-7a44-470d-b3fc-75ab1f6f317a)
 
+<br />
 
 ## ImageInnator - Image Finder (https://imageinnator-qarq90.vercel.app/)
 
@@ -76,8 +77,11 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 - Uses Unplash API.
 - Repo: (https://github.com/SpectreScythe/image-innator)
 
+<br />
+
 ![image](https://github.com/qarq90/qarq90/assets/124421417/6002b906-d1e5-4c98-954e-650de270936c)
 
+<br />
 
 ## 🌟 Contributions 
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet

@@ -84,6 +84,20 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 <br />
 
+## Priority Pro - An Over the top todo List (https://an-over-the-top-todo-list-qarq90.vercel.app/)
+
+- Seamlessly combines the power of Next.js and MongoDB for efficient data management and dynamic frontend rendering.
+- Secure user authentication ensures data privacy and access control for personalized task management.
+- Enables users to delete completed tasks and archive important ones for future reference, optimizing task organization.
+- Offers an intuitive dashboard for users to manage tasks effectively, providing a clear overview of pending, completed, and archived tasks.
+- Repo: (https://github.com/qarq90/an_over_the_top_todo_list)
+
+<br />
+
+![image](https://github.com/qarq90/an_over_the_top_todo_list/assets/124421417/d2cee9e7-9efc-4fee-b573-e0acea1c5cca)
+
+<br />
+
 ## 🌟 Contributions 
 - Collaborated to create a real time chap app: https://github.com/oaish/Servlet
 - Completed: https://github.com/SpectreScythe/SnX

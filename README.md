@@ -49,24 +49,17 @@ __________________________________________________________________________
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-## SnX (https://snx-qarq90.vercel.app/)
+## SnX - 3D Outfit Customizer (https://snx-qarq90.vercel.app/)
 
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
 - Craft your unique style statement with an extensive collection of 3D outfits and accessories.
-- Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble.
+- Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble or generate images with AI.
 - Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
 - Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
 - Repo: (https://github.com/qarq90/SnX)
 
-## Installing the Project
-
-To install the project, you need to run the provided installer executable. Here are the steps:
-
-- Download the project as a .zip from Code.
-- Extract the contents of the zip file.
-- Run the installer executable file.
-- Follow the installation instructions provided by the installer.
+<br>
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
 
@@ -74,22 +67,14 @@ To install the project, you need to run the provided installer executable. Here 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/1e88a4f6-7a44-470d-b3fc-75ab1f6f317a)
 
 
-## ImageInnator (https://imageinnator-qarq90.vercel.app/)
+## ImageInnator - Image Finder (https://imageinnator-qarq90.vercel.app/)
 
 - An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
 -  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
    photographers worldwide
+- Select your desired resolution and download the desired image.
 - Uses Unplash API.
-- Repo: https://github.com/SpectreScythe/image-innator
-
-## Installing the Project
-
-To install the project, you need to run the provided installer executable. Here are the steps:
-
-- Download the project as a .zip from Code.
-- Extract the contents of the zip file.
-- Run the installer executable file.
-- Follow the installation instructions provided by the installer.
+- Repo: (https://github.com/SpectreScythe/image-innator)
 
 ![image](https://github.com/qarq90/qarq90/assets/124421417/6002b906-d1e5-4c98-954e-650de270936c)
 

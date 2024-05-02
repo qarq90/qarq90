@@ -67,7 +67,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 <br />
 
-![image](https://github.com/qarq90/qarq90/assets/124421417/1e88a4f6-7a44-470d-b3fc-75ab1f6f317a)
+![image](https://github.com/qarq90/qarq90/assets/124421417/990ab9f0-9666-4504-bf41-391eb2320075)
 
 <br />
 

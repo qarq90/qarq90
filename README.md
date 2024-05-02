@@ -49,7 +49,15 @@ __________________________________________________________________________
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-## Dawg - Dawg is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
+## Dawg - Gaming hub with diverse collection.
+
+Dawg is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
+
+<br/>
+
+![image](https://github.com/qarq90/qarq90/assets/124421417/6f88c8b6-03d6-4190-ae8d-10d3eea23419)
+
+<br/>
 
 ## SnX - 3D Outfit Customizer (https://snx-qarq90.vercel.app/)
 

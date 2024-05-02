@@ -49,19 +49,11 @@ __________________________________________________________________________
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
+## Dawg - Dawg is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
+
 ## SnX - 3D Outfit Customizer (https://snx-qarq90.vercel.app/)
 
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
-
-- Craft your unique style statement with an extensive collection of 3D outfits and accessories.
-- Seamlessly mix and match clothing items, colors, and textures to curate your perfect ensemble or generate images with AI.
-- Experience stunning 3D rendering powered by Three.js, Drei, and React Three Fiber for a lifelike preview of your customized outfit.
-- Built with Next.js for lightning-fast performance and server-side rendering, SnX offers a captivating user experience for fashion enthusiasts worldwide.
-- Repo: (https://github.com/qarq90/SnX)
-
-<br>
-
-![image](https://github.com/qarq90/qarq90/assets/124421417/13ddd174-1947-45b1-9b7d-4610139414f9)
 
 <br />
 
@@ -71,12 +63,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 ## ImageInnator - Image Finder (https://imageinnator-qarq90.vercel.app/)
 
-- An innovative image website leveraging the Unsplash API to deliver high-quality and diverse images for various purposes. 
--  With Image Innator, users can explore an extensive collection of stunning visuals, ranging from landscapes to portraits, curated from talented 
-   photographers worldwide
-- Select your desired resolution and download the desired image.
-- Uses Unplash API.
-- Repo: (https://github.com/SpectreScythe/image-innator)
+Image-Innator is a React web application that provides users with a curated collection of high-quality images for various purposes.
 
 <br />
 
@@ -86,11 +73,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 ## Priority Pro - An Over the top todo List (https://an-over-the-top-todo-list-qarq90.vercel.app/)
 
-- Seamlessly combines the power of Next.js and MongoDB for efficient data management and dynamic frontend rendering.
-- Secure user authentication ensures data privacy and access control for personalized task management.
-- Enables users to delete completed tasks and archive important ones for future reference, optimizing task organization.
-- Offers an intuitive dashboard for users to manage tasks effectively, providing a clear overview of pending, completed, and archived tasks.
-- Repo: (https://github.com/qarq90/an_over_the_top_todo_list)
+Experience the ultimate in task management with our cutting-edge to-do list application. Seamlessly integrated with a powerful database, our platform offers unparalleled efficiency and organization for your daily tasks.
 
 <br />
 

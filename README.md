@@ -41,17 +41,17 @@ __________________________________________________________________________
 - I think the 🟥 Red Army 🟥 was right, because it's OUR code.
 
 ## ℹ️ About Me 
-- Formally called "Abdurrahman Qureshi".
-- Professional Bug Developer.
-- Ctrl-Z enthusiast, because life needs an undo button.
-- My debugging skills are so bad, I could investigate a political scandal in binary.
+- 😉 Formally called "Abdurrahman Qureshi".
+- 🐞 Professional Bug Developer.
+- ↩ Ctrl-Z enthusiast, because life needs an undo button.
+- 🏛 My debugging skills are so bad, I could investigate a political scandal in binary.
 
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
 <br />
 
-## DAWG - Gaming hub with diverse collection (https://dawg-qarq90.vercel.app/)
+## 🎮 DAWG - Gaming hub with diverse collection (https://dawg-qarq90.vercel.app/)
 
 DAWG is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
 
@@ -61,7 +61,7 @@ DAWG is the ultimate gaming hub with a vast collection across genres like action
 
 <br/>
 
-## SnX - 3D Outfit Customizer (https://snx-qarq90.vercel.app/)
+## 👖 SnX - 3D Outfit Customizer (https://snx-qarq90.vercel.app/)
 
 SnX is an innovative 3D outfit customization platform that redefines online fashion exploration and personal style creation.
 
@@ -71,7 +71,7 @@ SnX is an innovative 3D outfit customization platform that redefines online fash
 
 <br />
 
-## ImageInnator - Image Finder (https://imageinnator-qarq90.vercel.app/)
+## 📸 ImageInnator - Image Finder (https://imageinnator-qarq90.vercel.app/)
 
 Image-Innator is a React web application that provides users with a curated collection of high-quality images for various purposes.
 
@@ -81,7 +81,7 @@ Image-Innator is a React web application that provides users with a curated coll
 
 <br />
 
-## Priority Pro - An Over the top todo List (https://an-over-the-top-todo-list-qarq90.vercel.app/)
+## 📋 Priority Pro - An Over the top todo List (https://an-over-the-top-todo-list-qarq90.vercel.app/)
 
 Experience the ultimate in task management with our cutting-edge to-do list application. Seamlessly integrated with a powerful database, our platform offers unparalleled efficiency and organization for your daily tasks.
 

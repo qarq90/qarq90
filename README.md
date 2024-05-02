@@ -51,9 +51,9 @@ Here are some projects I've worked on:
 
 <br />
 
-## Dawg - Gaming hub with diverse collection (https://dawg-qarq90.vercel.app/)
+## DAWG - Gaming hub with diverse collection (https://dawg-qarq90.vercel.app/)
 
-Dawg is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
+DAWG is the ultimate gaming hub with a vast collection across genres like action, adventure, and role-playing. Dive into detailed game pages for descriptions, ratings, screenshots, and system requirements.
 
 <br/>
 

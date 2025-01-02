@@ -32,7 +32,6 @@ __________________________________________________________________________
 <br />
 
 #                         just kidding......
-#                         https://abdurrahmanqureshi.vercel.app/
 
 ## Some random puns I made along the way...
 - 🌹 Roses are #FF0000, 🌺 violets are #0000FF, unexpected '{' on line 32.

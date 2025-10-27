@@ -49,7 +49,17 @@ __________________________________________________________________________
 ## 🚀 Projects 
 Here are some projects I've worked on:
 
-<br />
+<br/>
+
+## 🖨️ Printhub - Nobody prints it better (https://print-hub-speed.vercel.app/)
+
+A modern web app for queueing, uploading, and managing print jobs and orders seamlessly.
+
+<br/>
+
+<img width="1846" height="980" alt="image" src="https://github.com/user-attachments/assets/8edeb19d-8e4f-486b-a1d5-12ebf40b69a2" />
+
+<br/>
 
 ## 🎮 DAWG - Gaming hub with diverse collection (https://dawg-qarq90.vercel.app/)
 
